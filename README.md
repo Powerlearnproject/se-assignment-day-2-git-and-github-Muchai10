@@ -7,7 +7,7 @@ Version control is a system that records changes to files over time, allowing de
 ### Fundamental Concepts of Version Control
 
 1. **Tracking Changes**:
-   - Version control systems (VCS) keep a history of every change made to files within a project, including code, documentation, and configuration files. T
+   - Version control systems (VCS) keep a history of every change made to files within a project, including code, documentation, and configuration files. 
 
 2. **Collaboration**:
    - Version control allows multiple people to work on the same project simultaneously without overwriting each other’s work. 
